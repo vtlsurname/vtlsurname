@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vtlsurname
+- 👀 I’m interested in python, c++, c#
+- 🌱 I’m currently learning c++
+- 📫 How to reach me @vtlsurname(telegram)
